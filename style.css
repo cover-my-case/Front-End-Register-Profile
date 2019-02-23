@@ -82,7 +82,9 @@ input[type=password]{
 }
 #request{
     text-align: center; 
+    padding: 30px; 
 }
 #offer{
     text-align: center; 
+    padding: 30px; 
 }
