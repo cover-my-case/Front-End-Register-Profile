@@ -89,5 +89,9 @@ input[type=password]{
     padding: 30px; 
 }
 #helpMsg{
-    text-align: center; 
+    text-align: center;  
 }
+/* #container{
+    display: inline-flex; 
+    
+} */
