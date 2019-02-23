@@ -70,3 +70,6 @@ input[type=password]{
 #submit{
     padding: 20px; 
 }
+#succes{
+    color: #0000CD;
+}
