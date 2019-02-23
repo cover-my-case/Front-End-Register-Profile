@@ -11,7 +11,7 @@ body{
 #createProfile{
     text-align: center;
     color: #0000CD;
-    font-size: 25px; 
+    font-size: 20px; 
 }
 #profilePicture{
     text-align: center; 
@@ -23,6 +23,10 @@ button{
     border-radius: 10px; 
     background-color: #0000CD;
     color: white; 
-    font-size: bold; 
- 
+    font-size: bold;
+    padding: 10px;  
+}
+button:hover{
+    background-color: white; 
+    color: #0000CD;
 }
