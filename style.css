@@ -30,3 +30,10 @@ button:hover{
     background-color: white; 
     color: #0000CD;
 }
+.submitButton{
+    border-radius: 10px; 
+    background-color: #0000CD;
+    color: white; 
+    font-size: bold;
+    padding: 10px;  
+}
