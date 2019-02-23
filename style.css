@@ -73,4 +73,7 @@ input[type=password]{
 #success{
     color: #0000CD;
     text-align: center; 
+    font-size: 50px; 
+    border-style: double; 
+    border-radius: 15px; 
 }
