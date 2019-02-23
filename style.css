@@ -77,3 +77,9 @@ input[type=password]{
     border-style: double; 
     border-radius: 15px; 
 }
+.case{
+    padding: 20px; 
+}
+#request{
+    text-align: center; 
+}
