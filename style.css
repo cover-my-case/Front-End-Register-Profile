@@ -1,6 +1,28 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+#logo{
+    text-align: center; 
+}
 .logoPic{
-    width: 100%; 
+    width: 350px;
+    height: auto;
+}
+#createProfile{
+    text-align: center;
+    color: #0000CD;
+    font-size: 25px; 
+}
+#profilePicture{
+    text-align: center; 
+}
+#profileInfo{
+    text-align: center; 
+}
+button{
+    border-radius: 10px; 
+    background-color: #0000CD;
+    color: white; 
+    font-size: bold; 
+ 
 }
