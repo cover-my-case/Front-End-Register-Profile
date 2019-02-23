@@ -88,3 +88,6 @@ input[type=password]{
     text-align: center; 
     padding: 30px; 
 }
+#helpMsg{
+    text-align: center; 
+}
