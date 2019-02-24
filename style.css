@@ -106,3 +106,6 @@ input[type=file]{
 #ticket{
     text-decoration: underline #0000CD; 
 }
+#done{
+    padding: 20px; 
+}
