@@ -11,14 +11,11 @@
 
 </head>
 
-<body>
+<body id="pageThree">
     <div id="container">
         <div>
             <h1 id="caseNum">
                 Case Number: XYZ-123
-            </h1>
-            <h1 id="completeButton">
-                <button id="done" type="button">Complete!</button>
             </h1>
         </div>
         <div id="aInfo">
@@ -42,9 +39,24 @@
                             Chicago, IL 60626
                         </p>
             </p>
-            <div id="">
+            <div id="instructionsBox">
+                <input type="text" width="50px" height="25px" placeholder="Instructions:">
 
             </div>
+            <br>
+            <div id="docUploadType">
+                    <label for="documentUpload">Upload Document:</label>
+                    <br>
+                    <img src="http://admin.firstshop.co.za/Communication/blackfriday/2016/image-placeholder-200x200px.jpg">
+                    <br>
+                    <input type="file"
+                           id="docUpload" name="document"
+                           accept="image/png, image/jpeg">
+                    
+            </div>
+            <h1 id="completeButton">
+                    <button id="done" type="button">Complete!</button>
+            </h1>
         </div>
 
     </div>

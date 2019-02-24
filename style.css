@@ -67,6 +67,10 @@ input[type=password]{
     border: none; 
     border-bottom: 2px solid #0000CD; 
 }
+input[type=file]{
+    border: none; 
+    border-bottom: 2px solid #0000CD; 
+}
 #submit{
     padding: 20px; 
 }
@@ -96,3 +100,6 @@ input[type=password]{
     
 } */
 /* //proofPage css3 design below  */
+#pageThree{
+    text-align: center; 
+}
